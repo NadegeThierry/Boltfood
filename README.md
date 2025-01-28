@@ -29,4 +29,4 @@ Grâce à mon travail :
 •	J’ai fourni une analyse approfondie des profils clients des plateformes concurrentes.  
 •	Une stratégie différenciée a été proposée pour Bolt, en se concentrant sur des segments de marché ayant un panier moyen plus élevé.  
 •	La qualité et l’interactivité des tableaux de bord Power BI ont permis de visualiser clairement les insights, facilitant la prise de décision stratégique.  
-•	Ce projet démontre mes compétences en Python pour le nettoyage de données et en Power BI pour la visualisation et l’analyse, tout en mettant en avant ma capacité à travailler avec des données imparfaites.
+
