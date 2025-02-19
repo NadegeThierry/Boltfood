@@ -1,4 +1,4 @@
-Contexte :
+Contexte :  
 Réalisation d’ une étude de marché et d’opportunité pour définir la stratégie de déploiement d’une nouvelle plateforme de livraison de Bolt à partir des données de transactions et commandes de Deliveroo, Uber Eats, et Just Eat (janvier 2017 - juin 2020).
 
 Tâches :  
